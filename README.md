@@ -35,5 +35,5 @@ This project is an **Inventory Notification System** that tracks stock levels an
 ### 1. Clone the Repository  
 ```sh
 git clone https://github.com/shawn254ke/Phase-1Project.git
-cd inventory-notifications
+cd Phase-1Project
 
