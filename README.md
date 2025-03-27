@@ -1,32 +1,33 @@
-# Phase-1Project
-phase -1 javascript project 
-# Inventory Notification System
+# Phase-1 Project: Inventory Management System  
 
-This project is an **Inventory Notification System** that tracks stock levels and alerts users when items are running low. The system dynamically updates notifications and includes a **dark mode** feature.
+This project is an **Inventory Management System** that allows users to **add, delete, sell, and update inventory** while tracking **sales and stock levels**. It includes a **real-time notification system** for low-stock alerts and a **dark mode** feature for improved user experience.
 
 ---
 
-## Features
-- **Stock Monitoring**: Detects low-stock items and displays notifications.  
-- **Live Notifications**: Updates in real time when an item's quantity changes.  
-- **Dark Mode**: Allows users to switch between light and dark themes.  
-- **User-Friendly UI**: Interactive design for easy navigation.  
+## Features  
+
+- **Inventory Management**: Users can add, update, delete, and sell items.  
+- **Sales Tracking**: Monitors sold items and updates stock automatically.  
+- **Stock Notifications**: Alerts users when stock runs low.  
+- **Dark Mode**: Switch between light and dark themes.  
+- **User-Friendly UI**: Simple and interactive design.  
 
 ---
 
 ## How It Works  
 
-1. **Filtering Items**:  
-   - The system checks if an item’s `quantity` is **≤ 5**.  
-   - If true, it generates a notification in the list.  
+### 1. Managing Inventory  
+- Users can **add new items** with a name, quantity, and price.  
+- Items can be **updated or deleted** from the inventory.  
+- The system **automatically updates stock** after a sale.  
 
-2. **Displaying Notifications**:  
-   - Notifications appear in a dropdown list.  
-   - The total count of low-stock items is displayed.  
+### 2. Stock Notifications  
+- If an item’s `quantity` is **≤ 5**, a notification is displayed.  
+- Notifications appear in a **dropdown list** with a count.  
 
-3. **Dark Mode**:  
-   - A toggle button allows users to switch between **light mode** and **dark mode**.  
-   - Saves user preference using `localStorage`.  
+### 3. Dark Mode  
+- A toggle button switches between **light mode** and **dark mode**.  
+- The system saves user preference using `localStorage`.  
 
 ---
 
@@ -36,4 +37,3 @@ This project is an **Inventory Notification System** that tracks stock levels an
 ```sh
 git clone https://github.com/shawn254ke/Phase-1Project.git
 cd Phase-1Project
-
