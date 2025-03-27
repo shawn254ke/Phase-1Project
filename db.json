@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "f587",
+      "name": "speaker",
+      "category": "Electronics",
+      "quantity": 10,
+      "price": 2100,
+      "supplier": "Sony"
+    },
+    {
+      "id": "fc0e",
+      "name": "xd",
+      "category": "dd",
+      "quantity": 400,
+      "price": 2000,
+      "supplier": "hjh"
+    }
+  ],
+  "sales": [
+    {
+      "id": "10",
+      "sales": 0
+    }
+  ]
+}
