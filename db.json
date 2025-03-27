@@ -15,6 +15,38 @@
       "quantity": 400,
       "price": 2000,
       "supplier": "hjh"
+    },
+    {
+      "id": "cef4",
+      "name": "samsung Note 10",
+      "category": "Phones",
+      "quantity": 200,
+      "price": 30000,
+      "supplier": "SamSung Electronics"
+    },
+    {
+      "id": "a15a",
+      "name": "Von SubWoofer",
+      "category": "Electronics",
+      "quantity": 20,
+      "price": 12000,
+      "supplier": "VON Ltd"
+    },
+    {
+      "id": "41b5",
+      "name": "Oraimo Chargers",
+      "category": "Phone Charger",
+      "quantity": 20,
+      "price": 1500,
+      "supplier": "Oraimo KE"
+    },
+    {
+      "id": "bef1",
+      "name": "Sony SmartTV",
+      "category": "SmartTV",
+      "quantity": 200,
+      "price": 64000,
+      "supplier": "Sony Ltd"
     }
   ],
   "sales": [
